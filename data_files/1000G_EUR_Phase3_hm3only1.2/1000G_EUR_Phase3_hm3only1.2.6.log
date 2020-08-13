@@ -1,0 +1,54 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Connecting to web...  failed connection
+
+Problem connecting to web
+
+Writing this text to log file [ 1000G_EUR_Phase3_hm3only1.2.6.log ]
+Analysis started: Mon Feb 12 18:43:20 2018
+
+Options in effect:
+	--bfile /dcl01/chatterj/data/yzhang/Data_ldscore/1000G_EUR_Phase3_plink/1000G.EUR.QC.6
+	--extract /dcl01/chatterj/data/yzhang/Data_ldscore/eur_w_ld_chr/w_hm3.snplist
+	--make-bed
+	--out 1000G_EUR_Phase3_hm3only1.2.6
+
+** For gPLINK compatibility, do not use '.' in --out **
+Reading map (extended format) from [ /dcl01/chatterj/data/yzhang/Data_ldscore/1000G_EUR_Phase3_plink/1000G.EUR.QC.6.bim ] 
+664016 markers to be included from [ /dcl01/chatterj/data/yzhang/Data_ldscore/1000G_EUR_Phase3_plink/1000G.EUR.QC.6.bim ]
+Reading pedigree information from [ /dcl01/chatterj/data/yzhang/Data_ldscore/1000G_EUR_Phase3_plink/1000G.EUR.QC.6.fam ] 
+489 individuals read from [ /dcl01/chatterj/data/yzhang/Data_ldscore/1000G_EUR_Phase3_plink/1000G.EUR.QC.6.fam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 489 missing
+0 males, 0 females, and 489 of unspecified sex
+Warning, found 489 individuals with ambiguous sex codes
+Writing list of these individuals to [ 1000G_EUR_Phase3_hm3only1.2.6.nosex ]
+Reading genotype bitfile from [ /dcl01/chatterj/data/yzhang/Data_ldscore/1000G_EUR_Phase3_plink/1000G.EUR.QC.6.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Reading list of SNPs to extract [ /dcl01/chatterj/data/yzhang/Data_ldscore/eur_w_ld_chr/w_hm3.snplist ] ... 75358 read
+Before frequency and genotyping pruning, there are 75358 SNPs
+489 founders and 0 non-founders found
+Total genotyping rate in remaining individuals is 1
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 75358 SNPs
+After filtering, 0 cases, 0 controls and 489 missing
+After filtering, 0 males, 0 females, and 489 of unspecified sex
+Writing pedigree information to [ 1000G_EUR_Phase3_hm3only1.2.6.fam ] 
+Writing map (extended format) information to [ 1000G_EUR_Phase3_hm3only1.2.6.bim ] 
+Writing genotype bitfile to [ 1000G_EUR_Phase3_hm3only1.2.6.bed ] 
+Using (default) SNP-major mode
+
+Analysis finished: Mon Feb 12 18:43:36 2018
+

@@ -1,0 +1,44 @@
+Trait,n.cases,n.controls,sample size source,current.cases,current.controls,plotname
+bcac_icogs2,46785,42892,raw data csv file,122977,105974,iCOGs-only
+bcac_icogs2_erneg,7333,42892,raw data csv file,21468,105974,iCOGs-only ER-
+bcac_icogs2_erpos,27078,42892,raw data csv file,69501,105974,iCOGs-only ER+
+bcac_onco_icogs,108067,88386,raw data csv file,122977,105974,Breast
+bcac_onco_icogs_erneg,16988,88386,raw data csv file,21468,105974,Breast ER-
+bcac_onco_icogs_erpos,65275,88386,raw data csv file,69501,105974,Breast ER+
+bcac_onco_icogs_gwas,122977,105974,raw data csv file,122977,105974,bcac_onco_icogs_gwas
+bcac_onco_icogs_gwas_erneg,21468,105974,raw data csv file,21468,105974,bcac_onco_icogs_gwas_erneg
+bcac_onco_icogs_gwas_erpos,69501,105974,raw data csv file,69501,105974,bcac_onco_icogs_gwas_erpos
+bcac_onco2,61282,45494,raw data csv file,122977,105974,bcac_onco2
+bcac_onco2_erneg,9655,45494,raw data csv file,21468,105974,bcac_onco2_erneg
+bcac_onco2_erpos,38197,45494,raw data csv file,69501,105974,bcac_onco2_erpos
+Colorectal,17050,19529,raw data max,18299,19656,Colorectal
+Endometrial,12906,108979,raw data max,12906,108979,Endometrial
+Esophageal,3914,6718,email,10279,17159,Esophageal
+Glioma,12488,18169,readme file,12496,18190,Glioma
+Glioma_GBM,6183,18169,readme file,6183,18169,Glioma GBM
+Glioma_nonGBM,5820,18169,readme file,5820,18169,Glioma nonGBM
+HNC,6034,6585,raw data max,2.50E+04,2.50E+04,Oropharyngeal 
+Lung,29266,56450,raw data max,29266,56450,Lung
+LungGadenocarcinoma,11273,55483,raw data max,11273,55483,Lung Adenocarcinoma
+LungsquamousCell,7426,55627,raw data max,7426,55627,Lung Squamous Cell
+Lymphoma_CLL4,3100,7667,raw data max,3100,7667,CLL
+Lymphoma_DLBCL4,3857,7666,raw data max,3857,7666,Lymphoma_DLBCL4
+Lymphoma_FL4,2847,8108,raw data max,2847,8108,Lymphoma_FL4
+Melanoma,12874,23203,paper,12874,23203,Melanoma
+Ovarian,22406,40951,raw data max,25509,40941,Ovarian
+Ovarian_clearcell,1366,40941,paper,1366,40941,Ovarian_clearcell
+Ovarian_endometrioid,2810,40941,paper,2810,40941,Ovarian_endometrioid
+Ovarian_lmp,3103,40941,paper,3103,40941,Ovarian_lmp
+Ovarian_mucinous,1417,40941,paper,1417,40941,Ovarian_mucinous
+Ovarian_mucinous_all,2566,40941,paper,2566,40941,Ovarian_mucinous_all
+Ovarian_mucinous_lmp,1149,40941,paper,1149,40941,Ovarian_mucinous_lmp
+Ovarian_ser_lg_lmp,2966,40941,paper,2966,40941,Ovarian_ser_lg_lmp
+Ovarian_serous,14049,40941,paper,14049,40941,Ovarian_serous
+Ovarian_serous_hg,13037,40941,paper,13037,40941,Ovarian_serous_hg
+Ovarian_serous_lmp,1954,40941,paper,1954,40941,Ovarian_serous_lmp
+Ovarian_serouslowgrade,1012,40941,paper,1012,40941,Ovarian_serouslowgrade
+Pancreas,8638,12217,Cross_cancer_readme.txt,9040,12496,Pancreas
+Prostate_web,79148,61106,raw data attached word file,79194,61112,Prostate
+Prostate_web_Onco,44825,27904,raw data attached word file,79194,61112,Prostate OncoArray
+Renal,10784,20407,raw data max,10784,20407,Renal
+TECAC,3558,13970,raw meta1 data mean sample size,3558,13970,Testicular

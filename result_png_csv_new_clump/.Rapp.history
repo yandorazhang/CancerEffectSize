@@ -1,0 +1,24 @@
+load("/Users/yandorazhang/Dropbox/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_impEsophageal.RData")
+ls()
+p_auc
+p_gv
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_optimOvarian.RData")
+ls()
+p_r99
+p_auc
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_imp_log1Endometrial.RData")
+ls()
+p_r99
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_imp_logEndometrial.RData")
+p_r99
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_imp_log1Endometrial.RData")
+p_r99
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_impEndometrial.RData")
+p_r99
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/result_png_csv_new_clump/F4_polyrisk_imp_log1Endometrial.RData")
+p_r99
+load("/Users/dorazhang/OneDrive - The University Of Hong Kong/AAA/2018_02_cancer/CancerEffectSize/result_png_csv_new_clump/F4_polyrisk_optim2020_log1Colorectal.RData")
+p_p
+ls()
+p_auc
+p_r99
